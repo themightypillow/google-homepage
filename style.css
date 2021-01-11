@@ -58,6 +58,7 @@ a:hover {
     border: 1px solid #dfe1e5;
     border-radius: 2rem;
     padding: 0.75rem 1rem;
+    display: flex;
 }
 
 #searchbar:hover {
@@ -67,6 +68,7 @@ a:hover {
 input[type=text] {
     border: none;
     margin-left: 1rem;
+    width: 100%;
 }
 
 .btn-gray {
