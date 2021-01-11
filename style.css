@@ -98,3 +98,17 @@ input[type=text] {
     height: 14px;
     width: 13px;
 }
+
+#apps-link {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background-image: url('https://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
+    background-position: -132px -38px;
+    vertical-align: middle;
+    opacity: 0.55;
+}
+
+#apps-link:hover {
+    opacity: 1;
+}
